@@ -4,5 +4,7 @@ El proyecto Gestor de Crédito y Compras es un programa que ayuda a los usuarios
 
 <h2>Ejecucion de programa</h2>
 <p>Esta imagen muestra la ejecución del programa 'Gestor de Crédito y Compras', en la que se registraron tres artículos. Dos de ellos se encuentran dentro del límite de crédito establecido, mientras que el tercero excede dicho límite y no se registra como una compra válida. Además, cabe destacar que las compras siempre se ordenan de menor a mayor valor.</p>
-![programa ejecucion](https://github.com/JavierCalderonMtz/Gestor-de-Cr-dito-y-Compras---JAVA/assets/157148752/e15e3110-7977-4636-939f-57f8b92e6edc)
 
+
+
+![programa ejecucion](https://github.com/JavierCalderonMtz/Gestor-de-Cr-dito-y-Compras---JAVA/assets/157148752/6a5c62d0-fae8-4ead-b25b-bc645ce09a6b)
